@@ -1,0 +1,12 @@
+# bun lock file
+bun.lockb
+
+# dependency directory
+node_modules/
+
+# mac thumbnails thing
+.DS_Store
+
+# you might want to uncomment this if you don't want
+# to commit your built javascript app
+web-app/javascript
