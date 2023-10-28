@@ -1,5 +1,10 @@
 # ASTRA - aggressively simple template for react apps
 
+- [quick start guide](#quick-start-guide)
+- [philosophy](#philosophy)
+- [gratuitous, borderline-propaganda comparisons](#gratuitous-borderline-propaganda-comparisons)
+- [contributing/roadmap](#contributingroadmap)
+
 ASTRA helps you create a react app with the smallest amount of work possible. it is written in [bun](https://bun.sh). here is a list of things it will not do for you:
 
 - it won't lint your code for you
@@ -60,7 +65,7 @@ bun install
 
 step three: make your react app however you want to
 
-> hint: add & edit files in the `./source-code/` directory. they can be typescript or javascript and can include JSX. just make a react app and keep `index.jsx` as the name of root file (there's a placeholder there you probably won't have to edit it)
+> hint: add & edit files in the `./source-code/` directory. they can be typescript or javascript and can include JSX. just make a react app and keep `index.jsx` as the name of root file (there's a placeholder there you probably won't have to edit).
 
 > hint: add & edit files in the `./web-app/` directory if you want images or CSS or any other kinds of files to be available.
 
@@ -146,3 +151,5 @@ I'd welcome any discussions or suggestions, however I must warn you I intend to 
 one area I'd like to consider exploring is collecting a shitload of "recipes", in which adding simple things like routing or environment variable injection or server-side rendering, etc, are explained in step-by-step instructions.
 
 these should also be aggressively simple.
+
+made by ian, ([@union.io](https://bsky.app/profile/union.io) on bluesky)
