@@ -1,4 +1,4 @@
-# ASTRA - aggressively simple template for react apps
+# ASTRA - [a](#astra---aggressively-simple-template-for-react-apps)ggressively [s](#astra---aggressively-simple-template-for-react-apps)imple [t](#astra---aggressively-simple-template-for-react-apps)emplate for [r](#astra---aggressively-simple-template-for-react-apps)eact [a](#astra---aggressively-simple-template-for-react-apps)pps
 
 - [quick start guide](#quick-start-guide)
 - [philosophy](#philosophy)
