@@ -72,7 +72,7 @@ step three: make your react app however you want to
 step four: build the app
 
 ```
-npx bun run build-the-app
+npm run build-the-app
 ```
 
 ...or if you have bun installed on your machine:
@@ -92,7 +92,7 @@ at this point you could simply copy the contents of your `web-app` directory to 
 step six (optional): run your build in `watch` mode so when you edit files it will rebuild your app immediately.
 
 ```
-npx bun run watch-the-app
+npm run watch-the-app
 ```
 
 note: after you make a code change, you will have to hit refresh in your browser to see your new code. my very deepest apologies for this inconvenience.
@@ -100,7 +100,7 @@ note: after you make a code change, you will have to hit refresh in your browser
 step seven (also optional): serve your build for developing locally
 
 ```
-npx bun run serve-for-development
+npm run serve-for-development
 ```
 
 now you can view it at `http://localhost:6969`. I once again apologize: you'll need to open your own web browser of choice and enter that URL into the bar yourself.
