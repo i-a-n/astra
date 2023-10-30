@@ -124,7 +124,7 @@ _number of dependencies in default app's node_modules directory_
 | create-react-app             | 852                    |
 | next.js                      | 300                    |
 | vite                         | 146                    |
-| aggressively simple template | **11** 🎉              |
+| **ASTRA**                    | **11** 🎉              |
 
 _time it takes to build default app (on my mbp)_
 
@@ -133,7 +133,7 @@ _time it takes to build default app (on my mbp)_
 | create-react-app             | 5,380ms     |
 | next.js                      | 7,020ms     |
 | vite                         | 327ms       |
-| aggressively simple template | **18ms** 🎉 |
+| **ASTRA**                    | **18ms** 🎉 |
 
 _default web port_
 
@@ -142,7 +142,7 @@ _default web port_
 | create-react-app             | 3000             |
 | next.js                      | 3000             |
 | vite                         | 5137             |
-| aggressively simple template | **6969** 🎉      |
+| **ASTRA**                    | **6969** 🎉      |
 
 ### contributing/roadmap
 
