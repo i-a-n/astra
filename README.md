@@ -45,7 +45,7 @@ the end.
 
 ### quick start guide
 
-step one: clone or fork this repository
+step one: clone this repository or just use it as a template in GitHub
 
 ```
 git clone https://github.com/i-a-n/astra.git
